@@ -12,6 +12,7 @@ NS_ASSUME_NONNULL_BEGIN
 
 @interface JZTest : NSObject
 + (void)ggTest;
++(void)gggTest;
 @end
 
 NS_ASSUME_NONNULL_END

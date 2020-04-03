@@ -12,4 +12,8 @@
 + (void)ggTest{
     NSLog(@"ggtest");
 }
++(void)gggTest{
+    NSLog(@"gggtest");
+}
+
 @end

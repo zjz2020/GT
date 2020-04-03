@@ -1,5 +1,5 @@
 #
-#  Be sure to run `pod spec lint GT.podspec' to ensure this is a
+#  Be sure to run `pod spec lint jzTest.podspec' to ensure this is a
 #  valid spec and to remove all comments including this before submitting the spec.
 #
 #  To learn more about Podspec attributes see https://guides.cocoapods.org/syntax/podspec.html
@@ -15,9 +15,9 @@ Pod::Spec.new do |spec|
   #  summary should be tweet-length, and the description more in depth.
   #
 
-  spec.name         = "GT"
+  spec.name         = "jzTest"
   spec.version      = "0.0.1"
-  spec.summary      = "只是测试,我喜欢这样"
+  spec.summary      = "这是一个晴朗的早晨,起床生"
 
   # This description is used to generate tags and improve search results.
   #   * Think: What does it do? Why did you write it? What is the focus?
@@ -25,8 +25,7 @@ Pod::Spec.new do |spec|
   #   * Write the description between the DESC delimiters below.
   #   * Finally, don't worry about the indent, CocoaPods strips it!
   spec.description  = <<-DESC
-  
-  这是一个晴朗的早上....
+    我都不信搞不定了   哈哈哈哈
                    DESC
 
   spec.homepage     = "https://github.com/zjz2020/GT"
